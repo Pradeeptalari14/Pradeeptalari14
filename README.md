@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Hi,%20I'm%20Pradeep%20Talari&subtitle=Cloud%20%26%20DevOps%20Engineer&fontSize=40&subtitleSize=18&fontColor=ffffff&fontAlignY=45" alt="Talari Pradeep Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=170&section=header&text=👋%20Hi,%20I'm%20Pradeep%20Talari&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20SRE%20Practitioner%20%7C%20Infrastructure%20Automation&fontSize=42&descSize=18&fontColor=ffffff&fontAlignY=35" alt="Talari Pradeep Banner" />
 </p>
 
 ## 🧑‍💻 About Me
