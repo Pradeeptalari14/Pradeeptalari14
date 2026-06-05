@@ -4,9 +4,7 @@
   profile repository: https://github.com/Pradeeptalari14/Pradeeptalari14
 -->
 
-<p align="center">
-  <img src="./banner.svg?v=6" alt="Talari Pradeep Banner" />
-</p>
+![Talari Pradeep Banner](https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/banner.svg?v=8)
 
 ## 🧑‍💻 About Me
 
