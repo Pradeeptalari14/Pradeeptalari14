@@ -1,6 +1,7 @@
 <svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    /* Default Colors & Font Rules (Light Mode) */
+  <style type="text/css">
+  <![CDATA[
+    /* Default Colors and Font Rules (Light Mode) */
     .text {
       font-size: 50px;
       font-weight: 700;
@@ -49,6 +50,7 @@
         transform: translateY(0);
       }
     }
+  ]]>
   </style>
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="45%" class="text" stroke="none" stroke-width="1">Hello! I'm Pradeep Talari</text>
   <text text-anchor="middle" alignment-baseline="middle" x="50%" y="85%" class="desc" stroke="none" stroke-width="1">Cloud &amp; DevOps Engineer | SRE Practitioner</text>
