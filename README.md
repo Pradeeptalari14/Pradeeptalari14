@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;theme=radical&amp;text=Hello!%20I%27m%20Pradeep%20Talari&amp;desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20SRE%20Practitioner&amp;fontSize=55&amp;descSize=20&amp;v=4" alt="Talari Pradeep Banner" />
+  <img src="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/banner.svg" alt="Talari Pradeep Banner" />
 </p>
 
 ## 🧑‍💻 About Me
