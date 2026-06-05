@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/banner.svg" alt="Talari Pradeep Banner" />
+  <img src="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/banner.svg?v=2" alt="Talari Pradeep Banner" />
 </p>
 
 ## 🧑‍💻 About Me
