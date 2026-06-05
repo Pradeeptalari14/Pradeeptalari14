@@ -88,7 +88,7 @@ I am a passionate **Cloud & DevOps Engineer** specializing in designing and prov
 <table align="center" border="0" cellpadding="10">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pradeeptalari14&theme=radical" alt="Pradeep's GitHub Stats" width="100%" />
+      <img src="https://github-stats-alpha.vercel.app/api?username=Pradeeptalari14&show_icons=true&theme=radical&hide_border=true" alt="Pradeep's GitHub Stats" width="100%" />
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeeptalari14&theme=radical&hide_border=true" alt="Pradeep's GitHub Streak" width="100%" />
@@ -97,7 +97,7 @@ I am a passionate **Cloud & DevOps Engineer** specializing in designing and prov
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradeeptalari14&theme=radical" alt="Pradeep's GitHub Activity Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradeeptalari14&theme=radical" alt="Pradeep's GitHub Activity Overview" width="100%" />
 </p>
 
 ---
