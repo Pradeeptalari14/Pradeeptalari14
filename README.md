@@ -6,13 +6,13 @@
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
-<!-- Phase 1: Animated Banner with Dark/Light Mode Preference -->
+<h2 align="center" style="font-family: monospace; letter-spacing: 1.5px; color: #a78bfa;">Senior AI Infrastructure &amp; Platform SRE Lead</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/dark.svg?v=2026">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/light.svg?v=2026">
-    <img alt="Talari Pradeep — Senior AI Infrastructure & Platform SRE Lead" src="https://raw.githubusercontent.com/Pradeeptalari14/Pradeeptalari14/main/dark.svg?v=2026" width="100%" />
-  </picture>
+  <a href="https://talaripradeep.info">
+    <img src="dark.svg#gh-dark-mode-only" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
+    <img src="light.svg#gh-light-mode-only" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
+  </a>
 </p>
 
 <!-- Phase 4: Social Badges (for-the-badge style, brand compliant) -->
@@ -76,77 +76,49 @@ The entire engineering ecosystem is backed by an open-source hub of **341 Intera
 
 ---
 
-## 🛠️ Tech Stack & Architecture Ecosystem
+## 🛠️ Stack
 
-<table>
-  <tr>
-    <td width="22%" valign="top"><b>🧠 AI &amp; LLMOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangGraph-4f46e5?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/vLLM-0284c7?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/LiteLLM-8b5cf6?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1c3d5a?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qdrant-dc2626?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Weaviate-10b981?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Neo4j_GraphRAG-008cc1?style=flat-square&logo=neo4j&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis_Vector_Cache-dc2626?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Whisper_STT-000000?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/ElevenLabs_TTS-f43f5e?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><b>☁️ Cloud &amp; Containers</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/KEDA-e11d48?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Helm-0F1626?style=flat-square&logo=helm&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cilium_eBPF-f59e0b?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><b>🏗️ IaC &amp; GitOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/Crossplane-e11d48?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArgoCD-F3C63F?style=flat-square&logo=argo&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Atlantis-6366f1?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><b>📊 SRE &amp; Observability</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Loki-475569?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tempo-ea580c?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenTelemetry-0284c7?style=flat-square&logo=opentelemetry&logoColor=white" />
-      <img src="https://img.shields.io/badge/PagerDuty-006600?style=flat-square&logo=pagerduty&logoColor=white" />
-      <img src="https://img.shields.io/badge/Falco-00aec7?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Trivy-10b981?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" valign="top"><b>💻 Languages &amp; Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash_Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Valkey_8-dc2626?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,bash,rust,ts,js,c,cpp" alt="Languages" />
+  </a>
+</p>
+
+### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,mongodb,graphql" alt="Backend & Databases" />
+  </a>
+</p>
+
+### Cloud, DevOps & Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,github,ansible,aws,azure,gcp,linux" alt="Cloud, DevOps & Tooling" />
+  </a>
+</p>
+
+### AI Engineering Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMS-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/APPLICATIONS-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEMS-A855F7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOOLS-0EA5E9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_AGENTS-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AUTOMATION-1D4ED8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TEST_AUTOMATION-3B82F6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM_/_SGLANG-10B981?style=for-the-badge&logoColor=white" />
+</p>
 
 ---
 
