@@ -1,16 +1,16 @@
 <!--
   ═══════════════════════════════════════════════════════════════════════════
   PRADEEP TALARI · GITHUB PROFILE README
-  Senior AI Infrastructure, Platform & Cloud SRE Lead
+  DevOps Infrastructure, Platform & Cloud SRE
   Repository: https://github.com/Pradeeptalari14/Pradeeptalari14
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
-<h3 align="center"><code>Senior DevOps &amp; AI Cloud Platform Engineer</code></h3>
+<h3 align="center"><code>DevOps Infrastructure, Platform &amp; Cloud SRE</code></h3>
 
 <p align="center">
   <a href="https://talaripradeep.info">
-    <img src="dark.svg" width="100%" alt="Talari Pradeep — Senior DevOps &amp; AI Cloud Platform Engineer" />
+    <img src="dark.svg" width="100%" alt="Talari Pradeep — DevOps Infrastructure, Platform &amp; Cloud SRE" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pradeeptalari14&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-0ea5e9?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%7C%20CLOUD%20%7C%20AI%20INFRA-8b5cf6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%7C%20INFRA%20%7C%20PLATFORM%20SRE-8b5cf6?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/LOCATION-BANGALORE%2C%20INDIA-10b981?style=flat-square" alt="Location" />
 </p>
 
@@ -44,7 +44,7 @@
 
 ## 🎯 Executive Summary
 
-Senior **DevOps &amp; AI Cloud Platform Engineer** with **6+ years of enterprise experience** architecting, scaling, and automating mission-critical cloud and AI infrastructure across AWS, Azure, and GCP. Specializing in:
+**DevOps Infrastructure, Platform &amp; Cloud SRE** with **6+ years of enterprise experience** architecting, scaling, and automating mission-critical cloud and AI infrastructure across AWS, Azure, and GCP. Specializing in:
 
 - ☸️ **Cloud-Native Kubernetes & Platform Engineering**: Multi-region EKS/AKS clusters, Karpenter intelligent autoscaling, KEDA event-driven scaling, and Cilium eBPF zero-trust networking.
 - 🏗️ **Enterprise IaC & GitOps Automation**: Production-scale Terraform & Crossplane modules, HashiCorp Vault secrets lifecycle, Atlantis pull-request automation, and ArgoCD continuous delivery.
