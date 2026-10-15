@@ -6,12 +6,11 @@
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
-<h2 align="center" style="font-family: monospace; letter-spacing: 1.5px; color: #a78bfa;">Senior AI Infrastructure &amp; Platform SRE Lead</h2>
+<h3 align="center"><code>Senior AI Infrastructure &amp; Platform SRE Lead</code></h3>
 
 <p align="center">
   <a href="https://talaripradeep.info">
-    <img src="dark.svg#gh-dark-mode-only" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
-    <img src="light.svg#gh-light-mode-only" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
+    <img src="dark.svg" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
   </a>
 </p>
 
