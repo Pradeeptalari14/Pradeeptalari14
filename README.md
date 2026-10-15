@@ -6,11 +6,11 @@
   ═══════════════════════════════════════════════════════════════════════════
 -->
 
-<h3 align="center"><code>Senior AI Infrastructure &amp; Platform SRE Lead</code></h3>
+<h3 align="center"><code>Senior DevOps &amp; AI Cloud Platform Engineer</code></h3>
 
 <p align="center">
   <a href="https://talaripradeep.info">
-    <img src="dark.svg" width="100%" alt="Talari Pradeep — Senior AI Infrastructure &amp; Platform SRE Lead" />
+    <img src="dark.svg" width="100%" alt="Talari Pradeep — Senior DevOps &amp; AI Cloud Platform Engineer" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pradeeptalari14&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-0ea5e9?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20INFRA%20%7C%20PLATFORM%20SRE-8b5cf6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%7C%20CLOUD%20%7C%20AI%20INFRA-8b5cf6?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/LOCATION-BANGALORE%2C%20INDIA-10b981?style=flat-square" alt="Location" />
 </p>
 
@@ -44,12 +44,13 @@
 
 ## 🎯 Executive Summary
 
-Senior **AI Infrastructure & Platform Engineer** with **6+ years of enterprise experience** architecting, scaling, and automating mission-critical cloud and AI infrastructure across AWS, Azure, and GCP. Specializing in:
+Senior **DevOps &amp; AI Cloud Platform Engineer** with **6+ years of enterprise experience** architecting, scaling, and automating mission-critical cloud and AI infrastructure across AWS, Azure, and GCP. Specializing in:
 
-- 🧠 **Autonomous Multi-Agent AI Platforms**: Production LangGraph, CrewAI, AutoGen, and semantic caching graphs with strict sub-second P95 latencies.
-- ⚡ **LLMOps & High-Throughput Model Serving**: Distributed vLLM, SGLang, LiteLLM, and Triton inference clusters on GPU-accelerated Kubernetes (NVIDIA A100/H100/L4).
 - ☸️ **Cloud-Native Kubernetes & Platform Engineering**: Multi-region EKS/AKS clusters, Karpenter intelligent autoscaling, KEDA event-driven scaling, and Cilium eBPF zero-trust networking.
 - 🏗️ **Enterprise IaC & GitOps Automation**: Production-scale Terraform & Crossplane modules, HashiCorp Vault secrets lifecycle, Atlantis pull-request automation, and ArgoCD continuous delivery.
+- 🔄 **CI/CD & Release Engineering**: Production pipelines across GitHub Actions, Jenkins, Ansible playbooks, and automated canary/blue-green deployments.
+- ⚡ **LLMOps & High-Throughput AI Infrastructure**: Distributed vLLM, SGLang, KubeRay operator, and model serving clusters on GPU-accelerated Kubernetes (NVIDIA A100/H100/L4).
+- 🧠 **Autonomous Multi-Agent AI Platforms**: Production LangGraph, CrewAI, AutoGen, and semantic caching graphs with strict sub-second P95 latencies.
 - 📊 **Full-Stack MELT SRE Observability**: End-to-end telemetry engineering with OpenTelemetry, Prometheus federation, Grafana Loki, Tempo distributed tracing, and automated self-healing runbooks.
 
 ---
@@ -75,48 +76,46 @@ The entire engineering ecosystem is backed by an open-source hub of **341 Intera
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack & Technologies
 
-### Languages
+### Cloud & Container Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,bash,rust,ts,js,c,cpp" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,linux,terraform" alt="Cloud & Infrastructure" />
   </a>
 </p>
 
-### Frontend
+### CI/CD, GitOps & Automation
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,ansible,bash,git" alt="CI/CD & Automation" />
   </a>
 </p>
 
-### Backend & Databases
+### Observability, Secrets & Security
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,mongodb,graphql" alt="Backend & Databases" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana,postgres,redis" alt="Observability & Security" />
   </a>
 </p>
 
-### Cloud, DevOps & Tooling
+### Core Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,github,ansible,aws,azure,gcp,linux" alt="Cloud, DevOps & Tooling" />
+    <img src="https://skillicons.dev/icons?i=py,bash,go" alt="Languages" />
   </a>
 </p>
 
-### AI Engineering Ecosystem
+### AI Infrastructure & LLMOps Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMS-4F46E5?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/APPLICATIONS-6366F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SYSTEMS-A855F7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TOOLS-0EA5E9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_AGENTS-2563EB?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AUTOMATION-1D4ED8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TEST_AUTOMATION-3B82F6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM_/_SGLANG-10B981?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_AI-6366F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM_/_SGLang-10B981?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/KubeRay-0EA5E9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cilium_eBPF-F59E0B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-0284C7?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
